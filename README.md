@@ -7,8 +7,8 @@ On initial load, all countries are displayed in alphabetical order in several pa
 The user can search countries and filter countires by region. 
 On selecting a country, it's further details are shown.
 
-
 TOOLS USED:
+
 The code for the app was written in visual studio code. 
 Create React App was used to generate the boilerplate for react app.
 All react components are functional components with state incorporated using react hooks.
@@ -17,6 +17,7 @@ React router is used to navigate to different sections of app.
 
 
 NOTE:
+
 This repository contains the production build of the app. To view the code for development see the repository:
 https://github.com/Rohail77/Rest-Countries-API.
 
