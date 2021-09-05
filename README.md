@@ -1,22 +1,35 @@
-# Rest-Countries-API-production
-### `ABOUT THE APP:`
+# REST-Countries-API-Production
+## About the App
 
-A countries fact app built using React with countries data fetched from Rest Countries API. 
-The app can be viewed in light or dark themes.
-On initial load, all countries are displayed in alphabetical order in several pages. 
-The user can search countries and filter countires by region. 
-On selecting a country, it's further details are shown.
+This is a countries fact app built using React with countries data fetched from Rest Countries API. The app
+can be previewed on [this link](https://rest-countries-api-rohail.vercel.app/).
 
-### `TOOLS USED:`
+## App Features
 
-The code for the app was written in visual studio code. 
-Create React App was used to generate the boilerplate for react app.
-All react components are functional components with state incorporated using react hooks.
-Local Storage API is used to store the user theme preference. 
-React router is used to navigate to different sections of app.
+- On initial load, all countries are displayed in alphabetical order in several pages. 
+- The user can search countries and filter countires by region. 
+- On selecting a country, it's further details are shown.
+- The user can click through to the border countries on the detail page
+- The app can be viewed in light or dark themes. 
 
+## Tools Used
 
-### `NOTE:`
+- **Visual Studio Code** to write code.  
+- **Create React App** to generate the boilerplate for react app. 
+- **React Hooks** to incorporate state. 
+- **Local Storage API** is used to store the user theme preference. 
+- **React Router** to navigate to different sections of app.
+- **Sass Preprocessor** to style the app.
 
-This repository contains the production build of the app. To view the code for development see the repository:
-https://github.com/Rohail77/Rest-Countries-API.
+##  Useful Resources
+The resources that helped me in the project:
+- https://stackoverflow.com/
+- [React Docs](https://reactjs.org/docs/getting-started.html) to learn more about hooks.
+
+## App Hosting
+The app is hosted on **Vercel** and can be previwed on [this link](https://rest-countries-api-rohail.vercel.app/).
+
+### NOTE
+
+This repository contains the production build of the app. To view development code see this repository: 
+https://github.com/Rohail77/REST-Countries-API
